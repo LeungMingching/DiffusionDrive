@@ -1,0 +1,5 @@
+export NUPLAN_MAP_VERSION="nuplan-maps-v1.0"
+export NUPLAN_MAPS_ROOT="$HOME/workspace/DiffusionDrive/dataset/maps"
+export NAVSIM_EXP_ROOT="$HOME/workspace/DiffusionDrive/exp"
+export NAVSIM_DEVKIT_ROOT="$HOME/workspace/DiffusionDrive/navsim"
+export OPENSCENE_DATA_ROOT="$HOME/workspace/DiffusionDrive/dataset"
