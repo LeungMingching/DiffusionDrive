@@ -1,6 +1,9 @@
 # Project specific
 dataset/
 exp/
+export_env.bash
+requirements.txt
+*.gif
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
